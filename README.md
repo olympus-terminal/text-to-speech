@@ -2,10 +2,12 @@
 
 > Comprehensive text-to-speech toolkit featuring neural TTS engines, intelligent text preprocessing, and cloud integration with AWS Polly.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/github/license/olympus-terminal/text-to-speech)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/olympus-terminal/text-to-speech?style=social)](https://github.com/olympus-terminal/text-to-speech/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/olympus-terminal/text-to-speech)](https://github.com/olympus-terminal/text-to-speech/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/olympus-terminal/text-to-speech)](https://github.com/olympus-terminal/text-to-speech/commits/main)
+[![Tools](https://img.shields.io/badge/tools-7-green.svg)](https://github.com/olympus-terminal/text-to-speech)
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org)
-[![TTS](https://img.shields.io/badge/TTS-Neural%20%7C%20Cloud-orange.svg)](.)
-[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg)](.)
 
 ## 🎙️ Overview
 
